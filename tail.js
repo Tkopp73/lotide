@@ -15,3 +15,4 @@ const tail = function(a) {
 let words = ["Yo Yo", "Lighthouse", "Labs"];
 tail(words);
 assertEqual(tail(words), "Lighthouse,Labs");
+
