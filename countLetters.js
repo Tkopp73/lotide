@@ -8,8 +8,8 @@ const countLetters = function(words) {
       letters[word]++;
     }
   }
-  console.log(letters);
+  return letters;
 };
 
-countLetters("Lighthouse Labs");
-countLetters("lighthouse in the house");
+console.log(countLetters("Lighthouse Labs"));
+console.log(countLetters("lighthouse in the house"));
