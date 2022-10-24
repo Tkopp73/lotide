@@ -11,6 +11,4 @@ const countLetters = function(words) {
   return letters;
 };
 
-console.log(countLetters("Lighthouse Labs"));
-console.log(countLetters("lighthouse in the house"));
-console.log(countLetters("supercalifragilisticexpialidocious"))
+module.exports = countLetters;

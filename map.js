@@ -29,3 +29,4 @@ assertArraysEqual(result2, "1,1"); // => true
 assertArraysEqual(result3, "1,2,3"); // => true
 
 
+module.exports = map;
