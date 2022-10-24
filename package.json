@@ -1,0 +1,19 @@
+{
+  "name": "lotide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assertArraysEqual.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tkopp73/lotide.git"
+  },
+  "author": "Tim Kopplin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tkopp73/lotide/issues"
+  },
+  "homepage": "https://github.com/Tkopp73/lotide#readme"
+}
