@@ -1,5 +1,5 @@
 
-let head = function(first) {
+const head = first => {
   return first[0];
 };
 
