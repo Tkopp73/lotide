@@ -1,6 +1,6 @@
 {
   "name": "@tkopp73/lotide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "library of functions",
   "main": "assertArraysEqual.js",
   "scripts": {

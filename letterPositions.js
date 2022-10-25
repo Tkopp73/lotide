@@ -14,8 +14,4 @@ const letterPositions = function(words) {
   
 };
 
-
-console.log(letterPositions("hello"));
-console.log(letterPositions("supercalifragilisticexpialidocious"));
-
 module.exports = letterPositions;
