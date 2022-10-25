@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@tkopp73/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "library of functions",
   "main": "assertArraysEqual.js",
   "scripts": {
     "test": "mocha"
